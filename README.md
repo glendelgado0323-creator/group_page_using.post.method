@@ -1,1 +1,0 @@
-# group_page.png
